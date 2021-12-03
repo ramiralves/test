@@ -1,1 +1,1 @@
-web: java -war target/engsoft-big-data.war
+web: java -war target/test-0.0.1-SNAPSHOT.war
